@@ -46,6 +46,7 @@ Assertions & reporting support
 🔹Cucumber (BDD)
 🔹TestNG
 🔹Maven
+🔹POM
 
 ## 💡 What I Learned
 How to design scalable automation frameworks
