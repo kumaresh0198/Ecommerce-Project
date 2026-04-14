@@ -48,6 +48,10 @@ Assertions & reporting support
 🔹Maven
 🔹POM
 
+### I have also added a screenshot of the final order confirmation page for verification.
+<img width="1920" height="905" alt="img" src="https://github.com/kumaresh0198/Ecommerce-Project/blob/16385495e51e509728143423eedcb99dfb70cb2a/img.png" />
+
+
 ## 💡 What I Learned
 How to design scalable automation frameworks
 Importance of reusable components
