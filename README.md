@@ -15,7 +15,6 @@ This project goes beyond that.
 🧑‍💻 Imagine a real user doing this:
  
 ✔ Logs into the application
-
 ✔ Explores products
 ✔ Applies filters
 ✔ Adds items to cart
@@ -32,9 +31,11 @@ This project is not just about automation — it’s about clean design and scal
 🔹 Page Object Model (POM)
 Keeps locators and actions separate
 Improves readability & reusability
+
 🔹 Behavior Driven Development (BDD)
 Scenarios written in plain English using Cucumber
 Easy for both technical & non-technical stakeholders
+
 🔹 TestNG Integration
 Structured test execution
 Assertions & reporting support
