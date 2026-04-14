@@ -1,7 +1,7 @@
 # 🛍️ E-Commerce Automation Framework
 End-to-end Selenium automation framework using Cucumber &amp; TestNG to simulate real user shopping flow (Login → Cart → Checkout).
 
-### 🌟 Project Vision
+## 🌟 Project Vision
 
 Most automation projects stop at login or a single feature.
 This project goes beyond that.
@@ -10,7 +10,7 @@ This project goes beyond that.
 
 👉 From authentication to checkout, everything is automated end-to-end.
 
-🎬 What This Project Demonstrates
+## 🎬 What This Project Demonstrates
 
 🧑‍💻 Imagine a real user doing this:
 
@@ -24,7 +24,7 @@ This project goes beyond that.
 
 🎯 This framework automates the entire flow seamlessly
 
-🧠 Framework Design (Industry Standard)
+## 🧠 Framework Design (Industry Standard)
 
 This project is not just about automation — it’s about clean design and scalability.
 
@@ -38,20 +38,20 @@ Easy for both technical & non-technical stakeholders
 Structured test execution
 Assertions & reporting support
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Java
 Selenium WebDriver
 Cucumber (BDD)
 TestNG
 Maven
 
-💡 What I Learned
+## 💡 What I Learned
 How to design scalable automation frameworks
 Importance of reusable components
 Writing clean and maintainable test code
 Handling real-world UI automation challenges
 
-🙌 About Me
+## 🙌 About Me
 
 I built this project as part of my journey to become a skilled Automation Test Engineer.
 Focused on writing clean, maintainable, and scalable test automation solutions.
