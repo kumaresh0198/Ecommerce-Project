@@ -39,11 +39,11 @@ Structured test execution
 Assertions & reporting support
 
 ## 🛠️ Tech Stack
-Java
-Selenium WebDriver
-Cucumber (BDD)
-TestNG
-Maven
+🔹Java
+🔹Selenium WebDriver
+🔹Cucumber (BDD)
+🔹TestNG
+🔹Maven
 
 ## 💡 What I Learned
 How to design scalable automation frameworks
