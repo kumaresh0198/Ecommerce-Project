@@ -1,7 +1,7 @@
 # 🛍️ E-Commerce Automation Framework
 End-to-end Selenium automation framework using Cucumber &amp; TestNG to simulate real user shopping flow (Login → Cart → Checkout).
 
-🌟 Project Vision
+### 🌟 Project Vision
 
 Most automation projects stop at login or a single feature.
 This project goes beyond that.
