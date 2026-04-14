@@ -13,8 +13,9 @@ This project goes beyond that.
 ## 🎬 What This Project Demonstrates
 
 🧑‍💻 Imagine a real user doing this:
-
+ 
 ✔ Logs into the application
+
 ✔ Explores products
 ✔ Applies filters
 ✔ Adds items to cart
